@@ -1,6 +1,5 @@
-# CPCS 203 – Java Programming 2: Booking System
+# Booking System
 
-This repository contains the first assignment for ICS 203 (Programming 2) course.  
 The project implements a **Flight Booking System** in Java, covering file handling, object-oriented programming, and basic ticket management.
 
 ## Project Overview
