@@ -1,11 +1,3 @@
-/*
-Shahad Rafi Alshehri
-2306119
-ICS
-Assignment 1
- */
-package Assignment1;
-
 public class Ticket {
 
     Flight Flight;
